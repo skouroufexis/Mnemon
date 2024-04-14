@@ -1,3 +1,6 @@
+# Live preview
+https://mnemon.domes-web.net
+
 # Mnemon
 
 ## Project setup
